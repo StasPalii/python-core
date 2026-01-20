@@ -1,7 +1,7 @@
 import requests
 import json
 
-windows_activate = ".\venv\Scripts\activate"
+# windows_activate = ".\venv\Scripts\activate"
 linux_macos_activate = "source venv/bin/activate"
 
 
